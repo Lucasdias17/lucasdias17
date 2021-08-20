@@ -1,4 +1,10 @@
-### Hi there 👋
+### Sou Lucas Dias!
+
+- Tenho 24 anos
+- Graduando em Sistemas de Informação no IFG
+- Estou adentrando a área de Desenvolvimento Web - Front end
+
+
  <div>
   <a href="https://github.com/lucasdias17">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasdias17&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
