@@ -2,7 +2,7 @@
 
 - Tenho 24 anos
 - Graduando em Sistemas de Informação no IFG
-- Estou adentrando a área de Desenvolvimento Web - Front end
+- Estou adentrando a área de Quality Assurance (QA).
 
 
  <div>
