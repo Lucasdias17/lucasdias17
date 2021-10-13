@@ -1,8 +1,8 @@
-### Sou Lucas Dias!
+### Sou Lucas Dias! 🚀
 
 - Tenho 24 anos
-- Graduando em Sistemas de Informação no IFG
-- Estou adentrando a área de Quality Assurance (QA).
+- Graduando em Sistemas de Informação no IFG 🎓
+- Estou adentrando a área de Quality Assurance (QA) 🌱
 
 
  <div>
