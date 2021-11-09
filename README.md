@@ -3,9 +3,10 @@
 - Tenho 24 anos
 - Graduando em Sistemas de Informação no IFG 🎓
 - Estou adentrando a área de Quality Assurance (QA) 🌱
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasdias17&label=Profile%20views&color=0e75b6&style=flat" alt="Lucasdias17" /> </p>
 
 
- <div>
+ <div align="center">
   <a href="https://github.com/lucasdias17">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasdias17&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdias17&layout=compact&langs_count=7&theme=dark"/>
@@ -28,7 +29,7 @@
   
   ##
  
-<div> 
+<div align="center"> 
  
   <a href="https://www.instagram.com/lucasvieira216/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lvieira216@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
