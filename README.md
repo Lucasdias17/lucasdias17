@@ -2,7 +2,7 @@
 
 - Tenho 24 anos
 - Graduando em Sistemas de Informação no IFG 🎓
-- Estou adentrando a área de Quality Assurance (QA) 🌱
+- Estagiário de Tester/(QA)Quality Assurance 🌱
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasdias17&label=Profile%20views&color=0e75b6&style=flat" alt="Lucasdias17" /> </p>
 
 
