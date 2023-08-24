@@ -41,3 +41,4 @@
  
   ![Snake Animation](https://github.com/Lucasdias17/lucasdias17/blob/main/.github/workflows/cobrinha.yml)
 
+</div>
