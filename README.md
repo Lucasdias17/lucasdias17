@@ -38,7 +38,6 @@
   <a href="https://www.instagram.com/lucasvieira216/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lvieira216@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-vieira-dias-7ab5a4150/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake Animation](https://github.com/Lucasdias17/lucasdias17/blob/main/.github/workflows/cobrinha.yml)
+
 
 </div>
