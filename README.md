@@ -1,8 +1,8 @@
-### Sou Lucas Dias! 🚀
+### Olá sou Lucas Dias! 🚀
 
 - Tenho 27 anos
 - Graduando em Sistemas de Informação no IFG 🎓
-- Analista de Testes Jr. 🌱
+- Analista de Testes 🌱
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasdias17&label=Profile%20views&color=0e75b6&style=flat" alt="Lucasdias17" /> </p>
 
 
