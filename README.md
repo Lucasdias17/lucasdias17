@@ -1,4 +1,4 @@
-### Olá sou Lucas Dias! 🚀
+### Olá, sou o Lucas Dias! 🚀
 
 - Tenho 27 anos
 - Graduando em Sistemas de Informação no IFG 🎓
