@@ -5,10 +5,7 @@
 - Analista de Pleno
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasdias17&label=Profile%20views&color=0e75b6&style=flat" alt="Lucasdias17" /> </p>
 
-
- <div align="center">
-</div>
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
  <img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white"/>
  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
